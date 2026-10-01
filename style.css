@@ -24,5 +24,6 @@
 .token-audit tbody th{font-weight:500;color:#ddd5d0}
 .token-audit tbody td:last-child{color:#fff;font-weight:700}
 .token-audit>p:not(.audit-eyebrow){font-size:14px;line-height:1.6;color:#d7d0cc;margin:22px 0 0}
+.token-audit p strong{color:#ff9b80}
 .token-audit .audit-note{border-top:1px solid #ffffff29;padding-top:15px;color:#bcb3af!important}
 @media(max-width:650px){.token-audit{padding:22px 17px}.audit-stats{grid-template-columns:1fr}.audit-stats div{padding:13px 15px}.audit-stats strong{font-size:31px}}
