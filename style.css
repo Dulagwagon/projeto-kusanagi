@@ -27,3 +27,14 @@
 .token-audit p strong{color:#ff9b80}
 .token-audit .audit-note{border-top:1px solid #ffffff29;padding-top:15px;color:#bcb3af!important}
 @media(max-width:650px){.token-audit{padding:22px 17px}.audit-stats{grid-template-columns:1fr}.audit-stats div{padding:13px 15px}.audit-stats strong{font-size:31px}}
+
+.diary-subtitle{color:#f0e6df!important;font-weight:600}
+.journal-entry h3 a,.journal-read-more,.diary-end a{color:inherit;text-decoration-thickness:2px;text-underline-offset:4px}
+.journal-entry h3 a:hover,.journal-read-more:hover,.diary-end a:hover{color:#b7422b}
+.journal-read-more{font-weight:700;color:#b7422b}
+.entry-hero{padding-bottom:30px}
+.entry-hero>p:not(.kicker){margin:10px 0 0}
+.entry-page .journal-detail{padding-top:0}
+.entry-page .journal-detail h1{font:800 clamp(38px,5vw,70px)/1 "Barlow Condensed",Impact,sans-serif;text-transform:uppercase;letter-spacing:-.02em;margin:18px 0 25px}
+.entry-page .diary-end{margin-top:32px}
+.entry-image{margin:28px 0;max-width:720px}.entry-image img{display:block;width:100%;height:auto}.entry-image figcaption{font-size:13px;color:#685f5a;margin-top:8px}
